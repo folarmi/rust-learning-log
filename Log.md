@@ -8,4 +8,5 @@ One line a day. What you did, what clicked, what didn't.
 - **Day 2 (Tue 13 Oct):** Started ch3. Variables are immutable by default??
 - **Day 3 (Wed 14 Oct):** Shadowing with `let x = x + 1;` finally makes sense.
 - **Day 4 (Thu 15 Oct):** Shadowing (`let x = ...` again) creates a new variable, so the type can change. `mut` changes the value of the same variable, so the type can't.
-- **Day 5 (Thu 16 Oct):** Every time an if produces a value,every arm has to produce the same type.
+- **Day 5 (Fri 16 Oct):** Every time an if produces a value,every arm has to produce the same type.
+- **Day 5 (Sat 16 Oct):** Went back to Chapter two to complete the guessing game after Chapter three. Saw how shadowing was used this time around.

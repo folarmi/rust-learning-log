@@ -1,0 +1,5 @@
+/Users/folacodes/Desktop/rust-learning-log/guessing_game/target/debug/build/getrandom-4e1fb7b8c4c2446f/build_script_build-4e1fb7b8c4c2446f.d: /Users/folacodes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.3/build.rs
+
+/Users/folacodes/Desktop/rust-learning-log/guessing_game/target/debug/build/getrandom-4e1fb7b8c4c2446f/build_script_build-4e1fb7b8c4c2446f: /Users/folacodes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.3/build.rs
+
+/Users/folacodes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.3/build.rs:
