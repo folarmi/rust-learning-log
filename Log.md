@@ -11,3 +11,7 @@ One line a day. What you did, what clicked, what didn't.
 - **Day 5 (Fri 16 Oct):** Every time an if produces a value,every arm has to produce the same type.
 - **Day 6 (Sat 17 Oct):** Completed Chapter 2, built the temperature converter as well.
 - **Day 7 (Sun 18 Oct):** Built the Fibonaaci generator and Twelve days of Christmas printer.
+
+## Week 2: Ownership
+
+- **Day 8 (Mon 19 Oct):** Started learning about ownership.
