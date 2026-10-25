@@ -17,4 +17,6 @@ One line a day. What you did, what clicked, what didn't.
 - **Day 8 (Mon 19 Oct):** Started learning about ownership.
 - **Day 9 (Tue 20 Oct):** Completed References and borrowing. Every value in Rust has an owner, there can only be one owner at a time, when the owner goes out of scope, the value will be be dropped.
 - **Day 10 (Wed 21 Oct):** Started learning about Structs.
-- **Day 11 (Thur 21 Oct):** Learnt about associated functions and methods.
+- **Day 11 (Thur 22 Oct):** Learnt about associated functions and methods.
+- **Day 12 (Fri 23 Oct):** Concluded with enums, match Option <T>, if else and let else statements.
+- **Day 13 (Sat 24 Oct):** Worked on Chapters 5 to 8 of the Rustlings exercise.
