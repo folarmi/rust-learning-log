@@ -1,0 +1,4 @@
+    Checking restaurant v0.1.0 (/Users/folacodes/Desktop/rust-learning-log/restaurant)
+error: could not compile `restaurant` (lib) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `restaurant` (lib test) due to 1 previous error

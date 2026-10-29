@@ -1,0 +1,4 @@
+    Checking enums v0.1.0 (/Users/folacodes/Desktop/rust-learning-log/enums)
+error: could not compile `enums` (bin "enums") due to 3 previous errors
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `enums` (bin "enums" test) due to 3 previous errors

@@ -1,0 +1,4 @@
+    Checking another_function v0.1.0 (/Users/folacodes/Desktop/rust-learning-log/another_function)
+error: could not compile `another_function` (bin "another_function") due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `another_function` (bin "another_function" test) due to 1 previous error
