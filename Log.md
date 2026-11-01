@@ -27,3 +27,6 @@ One line a day. What you did, what clicked, what didn't.
 - **Day 15 (Mon 26 Oct):** Chapter 7: modules, paths, `pub`, `use` and `super`. A file isn't part of the program until its parent declares it with `mod`. Privacy rule: children can use their parents' stuff, but parents can only use their children's stuff if it's marked `pub`. Got it backwards at first (5/8 on the quiz).
 - **Day 16 (Tue 27 Oct):** Started the collections chapter and studied about Vectors
 - **Day 17 (Wed 28 Oct):** Worked on chapter 8 and 9 of the rustlings book
+- **Day 18 (Thur 29 Oct):** Worked on chapter 10 of the rustlings book
+- **Day 19 (Fri 30 Oct):** Worked on chapter 11 of the rustlings book
+- **Day 20 (Sat 31 Oct):** Completed the collections and vector chapters of the rust book.
