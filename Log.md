@@ -31,3 +31,7 @@ One line a day. What you did, what clicked, what didn't.
 - **Day 19 (Fri 30 Oct):** Worked on chapter 11 of the rustlings book
 - **Day 20 (Sat 31 Oct):** Completed the collections and vector chapters of the rust book.
 - **Day 21 (Sun 1 Nov):** Tidied up the mean and median project.
+
+## Week 4: Modules and collections
+
+- **Day 22 (Mon 2 Nov):** Completed the pig-latin project.
