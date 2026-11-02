@@ -30,3 +30,4 @@ One line a day. What you did, what clicked, what didn't.
 - **Day 18 (Thur 29 Oct):** Worked on chapter 10 of the rustlings book
 - **Day 19 (Fri 30 Oct):** Worked on chapter 11 of the rustlings book
 - **Day 20 (Sat 31 Oct):** Completed the collections and vector chapters of the rust book.
+- **Day 21 (Sun 1 Nov):** Tidied up the mean and median project.

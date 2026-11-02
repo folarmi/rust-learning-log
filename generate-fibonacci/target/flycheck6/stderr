@@ -1,4 +1,5 @@
     Blocking waiting for file lock on package cache
     Blocking waiting for file lock on package cache
-    Checking generate-fibonacci v0.1.0 (/Users/folacodes/Desktop/rust-learning-log/generate-fibonacci)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.67s
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.04s
