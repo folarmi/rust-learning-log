@@ -1,5 +1,8 @@
     Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
     Checking slices v0.1.0 (/Users/folacodes/Desktop/rust-learning-log/slices)
-error: could not compile `slices` (bin "slices") due to 3 previous errors
-warning: build failed, waiting for other jobs to finish...
 error: could not compile `slices` (bin "slices" test) due to 3 previous errors
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `slices` (bin "slices") due to 3 previous errors

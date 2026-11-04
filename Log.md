@@ -35,3 +35,4 @@ One line a day. What you did, what clicked, what didn't.
 ## Week 4: Modules and collections
 
 - **Day 22 (Mon 2 Nov):** Completed the pig-latin project.
+- **Day 23 (Tue 3 Nov):** completed the Employee Directory task.
